@@ -1,0 +1,42 @@
+{
+  "AppConfig": {
+    "bannerText": "Awaiting Authentication.",
+    "getKeyText": "🔑 Get Key ↗️",
+    "getKeyUrl": "https://t.me/dpmodsdialog",
+    "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
+    "loginBtnText": "AUTHENTICATE",
+    "maintenanceMode": false,
+    "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
+    "statusBadge": "SECURE",
+    "tags": [
+      "👨‍💻 Engine by DPMods 👨‍💻",
+      "🚀 DPMods V4 🚀",
+      "🛠 Stable Build"
+    ],
+    "title": "DPMods Core",
+    "updateMsg": "New DPMods version available! Please update.",
+    "updateRequired": false,
+    "updateUrl": "https://t.me/dpmodsdialog"
+  },
+  "BannedHWIDs": {
+    "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
+  },
+  "Keys": {
+    "Admin": {
+      "hwid": "B8763C974CAA6DE6",
+      "expireDate": "2026-06-03",
+      "isBanned": false,
+      "banReason": "Test Key",
+      "userRank": "Supreme User",
+      "freezeAccount": false
+    },
+    "DPMods-Z50FZH": {
+      "hwid": "B8763C974CAA6DE6",
+      "expireDate": "2026-06-03",
+      "isBanned": false,
+      "banReason": "Test Key",
+      "userRank": "Supreme User",
+      "freezeAccount": false
+    }
+  }
+}
