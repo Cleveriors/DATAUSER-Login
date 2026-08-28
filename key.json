@@ -1,19 +1,19 @@
 {
   "AppConfig": {
-    "bannerText": "Awaiting Authentication.",
+    "bannerText": "🛡️ Patch Original v2.0.1 R-14 🛡️",
     "getKeyText": "🔑 Get Key ↗️",
-    "getKeyUrl": "https://t.me/dpmodsdialog",
-    "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
+    "getKeyUrl": "https://wa.me/628176422022",
+    "imageUrl": "https://ibb.co.com/bgT54rj6",
     "loginBtnText": "AUTHENTICATE",
     "maintenanceMode": false,
     "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
     "statusBadge": "SECURE",
     "tags": [
-      "👨‍💻 Engine by DPMods 👨‍💻",
-      "🚀 DPMods V4 🚀",
-      "🛠 Stable Build"
+      "👨‍💻 Bypass by Cleverior 👨‍💻",
+      "🛡️ Anti Root / Noroot 🛡️",
+      "🛠 Anti Detected"
     ],
-    "title": "DPMods Core",
+    "title": "BkpsdmApps v2",
     "updateMsg": "New DPMods version available! Please update.",
     "updateRequired": false,
     "updateUrl": "https://t.me/dpmodsdialog"
