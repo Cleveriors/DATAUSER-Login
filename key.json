@@ -6,7 +6,7 @@
     "imageUrl": "https://raw.githubusercontent.com/Cleveriors/DATAUSER-Login/refs/heads/main/F576FB28-D08A-4B73-9A40-E6A45900430D.png",
     "loginBtnText": "AUTHENTICATE",
     "maintenanceMode": false,
-    "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
+    "maintenanceMsg": "DataBase server is temporarily down for maintenance.",
     "statusBadge": "SECURE",
     "tags": [
       "👨‍💻 Bypass by Cleverior 👨‍💻",
@@ -14,7 +14,7 @@
       "🛠 Anti Detected"
     ],
     "title": "⭐ BkpsdmApps v2 ⭐",
-    "updateMsg": "New DPMods version available! Please update.",
+    "updateMsg": "New Update version available! Please update.",
     "updateRequired": false,
     "updateUrl": "https://t.me/dpmodsdialog"
   },
