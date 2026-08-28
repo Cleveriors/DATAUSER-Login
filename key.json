@@ -19,13 +19,5 @@
     "updateUrl": "https://t.me/dpmodsdialog"
   },
   "BannedHWIDs": {},
-  "Keys": {
-    "DPMods-RKDZFT": {
-      "hwid": "56A7A7694CA50BA4",
-      "expireDate": "2030-08-28",
-      "isBanned": false,
-      "banReason": "",
-      "userRank": "Supreme User"
-    }
-  }
+  "Keys": {}
 }
